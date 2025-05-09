@@ -6,7 +6,7 @@
       "estado": "SP",
       "data": "2025-05-01",
       "autor": "Ana Paula",
-      "imagem": "img/",
+      "imagem": "img/politica.jpg",
       "conteudo": "A nova lei tem como objetivo aumentar os investimentos em educação básica..."
     },
     {
@@ -16,7 +16,7 @@
       "estado": "RJ",
       "data": "2025-05-02",
       "autor": "Carlos Eduardo",
-      "imagem": "img/",
+      "imagem": "img/esporte.jpg",
       "conteudo": "Com dois gols no segundo tempo, o Flamengo virou o jogo contra o Fluminense..."
     },
     {
@@ -26,7 +26,7 @@
       "estado": "MG",
       "data": "2025-05-03",
       "autor": "Juliana Costa",
-      "imagem": "img/",
+      "imagem": "img/tecnologia.jpg",
       "conteudo": "O aplicativo promete mudar a forma como usuários interagem com redes sociais..."
     },
     {
@@ -36,7 +36,7 @@
       "estado": "SP",
       "data": "2025-05-01",
       "autor": "Luciana Alves",
-      "imagem": "img/",
+      "imagem": "img/entretenimento.jpg",
       "conteudo": "O evento contou com a presença de grandes nomes do cinema brasileiro..."
     },
     {
@@ -46,7 +46,7 @@
       "estado": "RJ",
       "data": "2025-05-04",
       "autor": "Rafael Lima",
-      "imagem": "img/",
+      "imagem": "img/politica.jpg",
       "conteudo": "A proposta visa simplificar os impostos federais e aumentar a arrecadação..."
     },
     {
@@ -56,7 +56,7 @@
       "estado": "RJ",
       "data": "2025-05-04",
       "autor": "Daniel Souza",
-      "imagem": "img/",
+      "imagem": "img/esporte.jpg",
       "conteudo": "O clube paulista apresentou o novo comandante em coletiva de imprensa..."
     },
     {
@@ -66,7 +66,7 @@
       "estado": "MG",
       "data": "2025-05-05",
       "autor": "Fernanda Dias",
-      "imagem": "img/",
+      "imagem": "img/tecnologia.jpg",
       "conteudo": "Com desempenho superior aos concorrentes, o chip chamou atenção na CES..."
     },
     {
@@ -76,7 +76,7 @@
       "estado": "RJ",
       "data": "2025-05-05",
       "autor": "Marcos Vinícius",
-      "imagem": "img/",
+      "imagem": "img/entretenimento.jpg",
       "conteudo": "A artista iniciou a turnê em São Paulo com casa cheia e grande produção..."
     },
     {
@@ -86,7 +86,7 @@
       "estado": "SP",
       "data": "2025-05-06",
       "autor": "Cláudia Pereira",
-      "imagem": "img/",
+      "imagem": "img/politica.jpg",
       "conteudo": "O encontro busca soluções integradas para o combate à violência urbana..."
     },
     {
@@ -96,7 +96,7 @@
       "estado": "SP",
       "data": "2025-05-06",
       "autor": "Renato Nunes",
-      "imagem": "img/",
+      "imagem": "img/esporte.jpg",
       "conteudo": "O time paulista fez um bom jogo e garantiu os três pontos no Beira-Rio..."
     },
     {
@@ -106,7 +106,7 @@
       "estado": "RJ",
       "data": "2025-05-06",
       "autor": "Gabriela Andrade",
-      "imagem": "img/",
+      "imagem": "img/tecnologia.jpg",
       "conteudo": "A tecnologia pode ajudar médicos a diagnosticar doenças raras com mais precisão..."
     },
     {
@@ -116,7 +116,7 @@
       "estado": "MG",
       "data": "2025-05-06",
       "autor": "André Rocha",
-      "imagem": "img/",
+      "imagem": "img/entretenimento.jpg",
       "conteudo": "A série foi premiada por roteiro e direção em festival europeu..."
     },
     {
@@ -126,7 +126,7 @@
       "estado": "MG",
       "data": "2025-05-07",
       "autor": "Tatiane Freitas",
-      "imagem": "img/",
+      "imagem": "img/politica.jpg",
       "conteudo": "O novo ministro falou sobre desafios e metas para os próximos meses..."
     },
     {
@@ -136,7 +136,7 @@
       "estado": "RJ",
       "data": "2025-05-07",
       "autor": "Paulo Henrique",
-      "imagem": "img/",
+      "imagem": "img/esporte.jpg",
       "conteudo": "O tricolor fez 4 a 0 em uma atuação de gala na Arena do Grêmio..."
     },
     {
@@ -146,7 +146,7 @@
       "estado": "SP",
       "data": "2025-05-07",
       "autor": "Lívia Martins",
-      "imagem": "img/",
+      "imagem": "img/tecnologia.jpg",
       "conteudo": "Com interface simples e recursos inteligentes, o app caiu no gosto popular..."
     },
     {
@@ -156,7 +156,7 @@
       "estado": "RJ",
       "data": "2025-05-07",
       "autor": "Flávia Neves",
-      "imagem": "img/",
+      "imagem": "img/entretenimento.jpg",
       "conteudo": "O ator volta às telinhas após 5 anos afastado da TV brasileira..."
     },
     {
@@ -166,7 +166,7 @@
       "estado": "MG",
       "data": "2025-05-07",
       "autor": "Leonardo Braga",
-      "imagem": "img/",
+      "imagem": "img/politica.jpg",
       "conteudo": "Proposta quer equilibrar preservação com desenvolvimento econômico..."
     },
     {
@@ -176,7 +176,7 @@
       "estado": "SP",
       "data": "2025-05-07",
       "autor": "Mateus Leal",
-      "imagem": "img/",
+      "imagem": "img/esporte.jpg",
       "conteudo": "O jogo foi equilibrado e terminou em 1 a 1, com gols no segundo tempo..."
     },
     {
@@ -186,7 +186,7 @@
       "estado": "RJ",
       "data": "2025-05-07",
       "autor": "Helena Prado",
-      "imagem": "img/",
+      "imagem": "img/tecnologia.jpg",
       "conteudo": "A plataforma se destaca por foco em privacidade e personalização..."
     },
     {
@@ -196,7 +196,7 @@
       "estado": "MG",
       "data": "2025-05-07",
       "autor": "Otávio Lima",
-      "imagem": "img/",
+      "imagem": "img/entretenimento.jpg",
       "conteudo": "Com figurinos coloridos e músicas animadas, o espetáculo foi um sucesso..."
     }
   ]  
