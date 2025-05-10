@@ -10,3 +10,182 @@
     background-color: #f9f9f9;
     color: #333;
   }
+
+  /* NAVBAR */
+.navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.logo {
+  height: 70px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.nav-links li a:hover {
+  color: #c62828; /* vermelho escuro */
+}
+
+#form-busca {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+#campo-busca {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#form-busca button {
+  padding: 0.5rem 1rem;
+  background-color: #c62828;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* HERO */
+.hero {
+  background-color: #c62828;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: 2.2rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+/* FILTROS */
+.filtros {
+  padding: 1rem 2rem;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.filtros select {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-left: 0.5rem;
+}
+
+/* SEÇÕES */
+.secao-noticias {
+  padding: 2rem;
+}
+
+.secao-noticias h2 {
+  margin-bottom: 1rem;
+  color: #c62828;
+  font-size: 1.5rem;
+  border-bottom: 2px solid #c62828;
+  display: inline-block;
+}
+
+.noticias-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* CARD */
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.card h3 {
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.card .info {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.card a {
+  margin-top: auto;
+  text-decoration: none;
+  color: #c62828;
+  font-weight: bold;
+}
+
+/* FOOTER */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+/* RESPONSIVO */
+@media (max-width: 768px) {
+  .nav-links {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  #form-busca {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+}
