@@ -7,8 +7,8 @@ Projeto acadêmico desenvolvido com HTML, CSS, JavaScript e JSON. O site exibe n
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/user/repositorio.git
+cd /c/user/repositório
 
 1. **Projeto clonado:**
 
